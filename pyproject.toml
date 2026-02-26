@@ -18,6 +18,11 @@ classifiers = [
     "Topic :: Software Development :: Libraries",
 ]
 
+[project.urls]
+Homepage = "https://github.com/brandon-fryslie/snarfx"
+Repository = "https://github.com/brandon-fryslie/snarfx"
+Issues = "https://github.com/brandon-fryslie/snarfx/issues"
+
 [project.optional-dependencies]
 textual = ["textual"]
 
